@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow - AI Powered Student Dashboard",
+  "description": "Serene AI-assisted study dashboard, course organizer, daily planner timeline, and habits & sleep tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
